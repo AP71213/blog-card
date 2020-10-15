@@ -1,3 +1,3 @@
 #Blog Card
 Blog page styling 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![template](https://github.com/AP71213/blog-card/blob/master/images/finished%20design.png?raw=true)
